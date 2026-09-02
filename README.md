@@ -108,12 +108,16 @@ The hotkey can also be customized from the application.
 ## 🖼️ Screenshot
 <img width="493" height="475" alt="image" src="https://github.com/user-attachments/assets/8f2af5ac-ece2-40c7-b140-42ac27bf4e6b" />
 
-#
-🛡️ Security
+## 🛡️ Security
 
+IFM is an open-source project, so its source code is fully available for inspection.
 
-SHA-256
+The latest release has also been scanned with VirusTotal and currently shows **0 detections**.
 
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%20detections-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/061a03a7e0b0bce244716499f84fe0e6cf7e16157ff5552dd53dfcaf586e0be6/detection)
+
+**SHA-256**
+```text
 061a03a7e0b0bce244716499f84fe0e6cf7e16157ff5552dd53dfcaf586e0be6
 
 
