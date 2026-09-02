@@ -108,7 +108,17 @@ The hotkey can also be customized from the application.
 ## 🖼️ Screenshot
 <img width="493" height="475" alt="image" src="https://github.com/user-attachments/assets/8f2af5ac-ece2-40c7-b140-42ac27bf4e6b" />
 
+#
+🛡️ Security
 
+
+SHA-256
+
+061a03a7e0b0bce244716499f84fe0e6cf7e16157ff5552dd53dfcaf586e0be6
+
+
+
+View the full VirusTotal report
 ## 📦 Installation
 
 Download the latest release from the **Releases** section of this repository and launch IFM.
