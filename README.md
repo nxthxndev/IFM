@@ -106,14 +106,8 @@ The hotkey can also be customized from the application.
 ---
 
 ## 🖼️ Screenshot
+<img width="493" height="475" alt="image" src="https://github.com/user-attachments/assets/8f2af5ac-ece2-40c7-b140-42ac27bf4e6b" />
 
-*Add a screenshot of the application here.*
-
-<!-- Example:
-![IFM Screenshot](assets/screenshot.png)
--->
-
----
 
 ## 📦 Installation
 
