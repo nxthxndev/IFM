@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Download IFM — Infinite Macro, a lightweight mouse auto-clicker.">
+  <title>IFM — Infinite Macro</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      background: #0b0b0d;
+      color: #f5f5f5;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    main {
+      width: 100%;
+      max-width: 560px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 24px;
+      display: grid;
+      place-items: center;
+      border: 1px solid #2a2a2f;
+      border-radius: 18px;
+      background: #151518;
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -1px;
+    }
+
+    h1 {
+      font-size: clamp(2.4rem, 8vw, 4rem);
+      letter-spacing: -0.06em;
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+
+    p {
+      color: #a7a7ad;
+      font-size: 1.05rem;
+      line-height: 1.6;
+      margin: 0 auto 32px;
+      max-width: 460px;
+    }
+
+    .download {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      min-width: 210px;
+      padding: 15px 24px;
+      border-radius: 12px;
+      background: #f5f5f5;
+      color: #0b0b0d;
+      text-decoration: none;
+      font-weight: 700;
+      transition: transform .18s ease, opacity .18s ease;
+    }
+
+    .download:hover {
+      transform: translateY(-2px);
+      opacity: .9;
+    }
+
+    .download:active {
+      transform: translateY(0);
+    }
+
+    .meta {
+      margin-top: 18px;
+      color: #6f6f75;
+      font-size: .85rem;
+    }
+
+    footer {
+      margin-top: 72px;
+      color: #55555b;
+      font-size: .8rem;
+    }
+
+    footer a {
+      color: #85858c;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: #f5f5f5;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div class="logo">IFM</div>
+
+    <h1>Infinite Macro</h1>
+
+    <p>
+      A simple and lightweight mouse macro.
+      Configure your clicks, choose a hotkey and start instantly.
+    </p>
+
+    <a
+      class="download"
+      href="https://release-assets.githubusercontent.com/github-production-release-asset/1355225662/92c7726c-2b4a-4662-ae7f-7bba06a02edb?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-09-02T22%3A05%3A17Z&rscd=attachment%3B+filename%3DIFM.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-09-02T21%3A05%3A09Z&ske=2026-09-02T22%3A05%3A17Z&sks=b&skv=2018-11-09&sig=bpbngUp9tNtbmzLbSAFHMtcmlPKKMTvElqnHjD%2FlEKM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4ODM4NDQyMywibmJmIjoxNzg4Mzg0MTIzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.gz2gXcCG73mj25DW_wIgQMpIGICizav2rif5P2nysH0&response-content-disposition=attachment%3B%20filename%3DIFM.exe&response-content-type=application%2Foctet-stream"
+      download="IFM.exe"
+    >
+      Download IFM
+      <span aria-hidden="true">↓</span>
+    </a>
+
+    <div class="meta">Windows · v1.0.0 · IFM.exe</div>
+
+    <footer>
+      Made by
+      <a href="https://github.com/nxthxndev" target="_blank" rel="noopener noreferrer">
+        nxthxndev
+      </a>
+    </footer>
+  </main>
+</body>
+</html>
