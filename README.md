@@ -1,6 +1,6 @@
 # IFM — Infinite Macro
 
-**IFM (Infinite Macro)** is a simple semi-opensource, lightweight and easy-to-use mouse macro for automating clicks.
+**IFM (Infinite Macro)** is a simple open-source, lightweight and easy-to-use mouse macro for automating clicks.
 
 Built with ❤️ by [nxthxndev](https://github.com/nxthxndev).
 
