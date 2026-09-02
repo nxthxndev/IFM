@@ -4,6 +4,7 @@
 
 Built with ❤️ by [nxthxndev](https://github.com/nxthxndev).
 
+website : https://nxthxndev.github.io/IFM
 ---
 
 ## ✨ Features
@@ -123,7 +124,7 @@ The latest release has also been scanned with VirusTotal and currently shows **0
 ## 📦 Installation
 
 Download the latest release from the **Releases** section of this repository and launch IFM.
-
+or download here : https://nxthxndev.github.io/IFM
 *No installation or complicated configuration is required.*
 
 ---
