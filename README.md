@@ -120,7 +120,7 @@ The latest release has also been scanned with VirusTotal and currently shows **8
 
 **SHA-256**
 
-061a03a7e0b0bce244716499f84fe0e6cf7e16157ff5552dd53dfcaf586e0be6
+sha256:9d773c6e5d3af220dca6419e005a5abea14c67562a3c8f761f1feea786225950
 
 ## 📦 Installation
 
