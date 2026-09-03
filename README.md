@@ -114,9 +114,9 @@ The hotkey can also be customized from the application.
 
 IFM is an open-source project, so its source code is fully available for inspection.
 
-The latest release has also been scanned with VirusTotal and currently shows **0 detections**.
+The latest release has also been scanned with VirusTotal and currently shows **8 detections**.
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%20detections-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/061a03a7e0b0bce244716499f84fe0e6cf7e16157ff5552dd53dfcaf586e0be6/detection)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%20detections-brightgreen?logo=virustotal)](https://www.virustotal.com/gui/file/9d773c6e5d3af220dca6419e005a5abea14c67562a3c8f761f1feea786225950/detection)
 
 **SHA-256**
 
